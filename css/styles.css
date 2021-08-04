@@ -1,0 +1,35 @@
+body 
+	
+
+#header-nav {
+	background-color: gray;
+	border-radius: 0;
+	border: 0; 
+}
+.navbar-header {
+	padding-top: 25px;
+}
+
+.navbar-header h1 {
+	font-family: sans-serif;
+	color: black;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	line-height: .75;	
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+	background-color: gray;
+	box-sizing: border-box;
+	border: 1px;
+	border-color: gray;
+	padding: 10px;
+}
